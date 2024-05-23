@@ -2,8 +2,7 @@
 
 A Simplistic system, that allows Players to have multiple Characters, which can be customised for all player with `Config.Slots` or personally set a players character count using `setslots`, `remslots`, `enablechar` and `disablechar` Commands :)
 
-![Preview](![image](https://github.com/Mesrine67/esx_multicharacter-redesign-/assets/89279156/a8f61d5c-9519-48a0-94ad-7953e91b46d3)
-)
+![image](https://github.com/Mesrine67/esx_multicharacter-redesign-/assets/89279156/00488b50-4a7e-4555-888c-7e2156eb7c95)
 
 ## Notes
 
